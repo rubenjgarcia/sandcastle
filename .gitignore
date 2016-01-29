@@ -6,3 +6,5 @@ nohup.out
 out.txt
 
 /coverage.html
+.idea
+.DS_Store

@@ -1,7 +1,7 @@
 SandCastle
 ==========
 
-[![Build Status](https://travis-ci.org/bcoe/sandcastle.png)](https://travis-ci.org/bcoe/sandcastle)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A simple and powerful sandbox for running untrusted JavaScript.
 
